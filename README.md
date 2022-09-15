@@ -1,4 +1,3 @@
-### <ins>About me</ins>
 👋 Hi, I’m Quoc-Khuong Tran
 - 🎓 I'm a recent graduate student majoring in Computer Science at Vietnam National University Ho Chi Minh City, University of Science
 - 🔥 I'm interested in AI (Natural Language Processing) and Web (Backend)
